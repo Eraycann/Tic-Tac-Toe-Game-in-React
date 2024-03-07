@@ -27,7 +27,7 @@ Start answering questions and enjoy the quiz!
 
 
 ## Live Demo 🌐
-   - Check out the live demo: [Quiz App Demo](#) 
+   - Check out the live demo: [Quiz App Demo](https://tic-tac-toe-game-in-react-one.vercel.app) 
 
 ## Components
    - TicTacToe.jsx: The main component handling the game logic and rendering.
