@@ -4,6 +4,7 @@ A simple React Tic Tac Toe game where two players take turns marking their symbo
 
 ![Tic Tac Toe](./readme.gif)
 
+
 ## Features 🌟
 
 - Classic Tic Tac Toe gameplay.
