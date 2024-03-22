@@ -23,11 +23,11 @@ A simple React Tic Tac Toe game where two players take turns marking their symbo
     Run the application:        npm run dev (It is recommended to install vite for react)
 
 The app will be accessible at http://localhost:3000.
-Start answering questions and enjoy the quiz!
+enjoy the tic-tac-to!
 
 
 ## Live Demo 🌐
-   - Check out the live demo: [Quiz App Demo](https://tic-tac-toe-game-in-react-one.vercel.app) 
+   - Check out the live demo: [Tic-Tac-To Demo](https://tic-tac-toe-game-in-react-one.vercel.app) 
 
 ## Components
    - TicTacToe.jsx: The main component handling the game logic and rendering.
